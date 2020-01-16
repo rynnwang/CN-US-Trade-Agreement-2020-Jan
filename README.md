@@ -1,1 +1,22 @@
-# CN-US-Trade-Agreement-2020-Jan
+# CN-US-Trade-Agreement-2020-Jan (中美贸易第一阶段协议)
+
+SOURCE: https://ustr.gov/about-us/policy-offices/press-office/press-releases/2020/january/economic-and-trade-agreement-between-government-united-states-and-government-peoples-republic-china
+
+- [Economic and Trade Agreement](files/Economic_And_Trade_Agreement_Between_The_United_States_And_China_Text.pdf)
+- [Fact Sheets](https://ustr.gov/countries-regions/china-mongolia-taiwan/peoples-republic-china/phase-one-trade-agreement/fact-sheets)
+    - [Phase One Agreement](files/US_China_Agreement_Fact_Sheet.pdf)
+    - [Intellectual Property](files/Phase_One_Agreement-IP_Fact_Sheet.pdf)
+    - [Technology Transfer](files/Phase_One_Agreement-Technology_Transfer_Fact_Sheet.pdf)
+    - [Agriculture and Seafood Related Provisions (Short)](files/Phase_One_Agreement-Ag_Summary_Short_Fact_Sheet.pdf)
+    - [Agriculture and Seafood Related Provisions (Long)](files/Phase_One_Agreement-Ag_Summary_Long_Fact_Sheet.pdf)
+        - [Agricultural Biotechnology](files/Phase_One_Agreement-Commodity_Fact_Sheet-Ag_Biotech.pdf)
+        - [Animal Feed](files/Phase_One_Agreement-Commodity_Fact_Sheet-Animal_Feed.pdf)
+        - [Seafood](files/Phase_One_Agreement-Commodity_Fact_Sheet-Aquatic.pdf)
+        - [Dairy and Infant Formula](files/Phase_One_Agreement-Commodity_Fact_Sheet-Dairy_and_Infant_Formula.pdf)
+        - [Horticultural Products](files/Phase_One_Agreement-Commodity_Fact_Sheet-Horticulture.pdf)
+        - [Meat, Poultry, and Live Breeding Cattle](files/Phase_One_Agreement-Commodity_Fact_Sheet-Meat_and_Cattle.pdf)
+        - [Pet Food](files/Phase_One_Agreement-Commodity_Fact_Sheet-Pet_Food.pdf)
+        - [Rice](files/Phase_One_Agreement-Commodity_Fact_Sheet-Rice.pdf)
+    - [Financial Services](files/Phase_One_Agreement-Financial_Services_Fact_Sheet.pdf)
+    - [Macroeconomic Policies and Exchange Rate](files/Phase_One_Agreement-Macroeconomic_Fact_Sheet.pdf)
+    - [Expanding Trade](files/Phase_One_Agreement-Expanding_Trade_Fact_Sheet.pdf)
